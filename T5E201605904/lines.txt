@@ -1,0 +1,5 @@
+201 ; 20 ; Paranhos, Monte dos Burgos, ISEP, Hospital de Sao Joao; 10, 20, 45
+207 ; 10 ; Aliados, Carmo, Galiza, Rotunda da Boavista; 5, 20, 20
+505 ; 30 ; Matosinhos, Sete Bicas, Rotunda dos Produtos Estrela, Senhora da Hora; 40, 30, 45
+6 ; 7 ; Porto, Gaia; 5
+999 ; 15 ; P1, P2, P3; 10, 11
